@@ -2,9 +2,9 @@
 
 <p>
   <a href="https://github.com/LuizOtr">
-    <img width="55%" align="right" alt="LuizOtr's github stats" src="https://github-readme-stats.vercel.app/api?username=LuizOtr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000"/>
+    <img width="50%" align="right" alt="LuizOtr's github stats" src="https://github-readme-stats.vercel.app/api?username=LuizOtr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000"/>
   </a>
- 
+    
 <div style="display: inline_block"><br>
   
   <img align="auto" alt="LuizOtr-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,7 +19,7 @@
   <img align="auto" alt="LuizOtr-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="auto" alt="LuizOtr-C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="auto" alt="LuizOtr-C#" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-
+  
 </div>
  
   ##
