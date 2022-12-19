@@ -1,7 +1,7 @@
 ## Olá, eu sou o Luiz Cordeiro,
 
 <p>
-  <a href="https://github.com/LuizOtr">
+  <a href="[https://github.com/LuizOtr](https://beacons.ai/luizcordeiro)">
     <img width="50%" align="right" alt="LuizOtr's github stats" src="https://github-readme-stats.vercel.app/api?username=LuizOtr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000"/>
   </a>
     
