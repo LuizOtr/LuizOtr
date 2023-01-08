@@ -31,5 +31,5 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Luiz_cordeiro0@outlook.com)
   
 ![Snake animation](https://github.com/LuizOtr/LuizOtr/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>  
+
+</div>  
